@@ -1,0 +1,26 @@
+
+# Python backend
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Flutter generated files
+frontend/.dart_tool/
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/android/local.properties
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
